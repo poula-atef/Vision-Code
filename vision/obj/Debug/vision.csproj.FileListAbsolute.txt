@@ -1,0 +1,23 @@
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\bin\Debug\vision.exe.config
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\bin\Debug\vision.exe
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\bin\Debug\vision.pdb
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\obj\Debug\vision.Form1.resources
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\obj\Debug\vision.Properties.Resources.resources
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\obj\Debug\vision.csproj.GenerateResource.Cache
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\obj\Debug\vision.exe
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\obj\Debug\vision.pdb
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\vision\vision\obj\Debug\vision.csprojResolveAssemblyReference.cache
+F:\voice commander\vision\vision\bin\Debug\vision.exe.config
+F:\voice commander\vision\vision\obj\Debug\vision.exe
+F:\voice commander\vision\vision\obj\Debug\vision.pdb
+F:\New folder\vision\vision\bin\Debug\vision.exe.config
+F:\New folder\vision\vision\obj\Debug\vision.exe
+F:\New folder\vision\vision\obj\Debug\vision.pdb
+F:\New folder\vision\vision\bin\Debug\vision.exe
+F:\New folder\vision\vision\bin\Debug\vision.pdb
+F:\New folder\vision\vision\obj\Debug\vision.Form1.resources
+F:\New folder\vision\vision\obj\Debug\vision.Properties.Resources.resources
+F:\New folder\vision\vision\obj\Debug\vision.csproj.GenerateResource.Cache
+F:\vision\vision\bin\Debug\vision.exe.config
+F:\vision\vision\obj\Debug\vision.exe
+F:\vision\vision\obj\Debug\vision.pdb
